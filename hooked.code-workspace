@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "python",
+			"path": "."
+		},
+		{
+			"name": "HTML.CSS",
+			"path": "..\\..\\HTML.CSS"
+		},
+		{
+			"name": "SOCIALTECH",
+			"path": "..\\SOCIALTECH"
+		},
+		{
+			"name": "HORIZON",
+			"path": "..\\HORIZON"
+		},
+		{
+			"path": "..\\Data"
+		}
+	],
+	"settings": {}
+}
